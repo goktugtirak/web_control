@@ -1,0 +1,23 @@
+[
+    {
+        "name": "archlinux",
+        "url": "https://archlinux.org/",
+        "control_date": "Thu Nov  7 14:58:38 2024",
+        "status_code": 200,
+        "response_time": 0.399543
+    },
+    {
+        "name": "youtube",
+        "url": "https://www.youtube.com/",
+        "control_date": "Thu Nov  7 14:58:38 2024",
+        "status_code": 200,
+        "response_time": 0.348517
+    },
+    {
+        "name": "x",
+        "url": "https://x.com",
+        "control_date": "Thu Nov  7 14:58:38 2024",
+        "status_code": 200,
+        "response_time": 0.378463
+    }
+]
